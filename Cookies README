@@ -1,0 +1,5 @@
+Kirwin Alcantara
+November 16, 2021
+Assignment 14: Cookies
+
+	Cookies are data that is written by websites and saved on a user’s local system. The data stored can be username, entered name, choices, etc. Normally, this data is “forgotten” by the closed connection when you do leave the site so the solution to that problem was to have JavaScript save a file on the local drive and the website searches for that file. Positive aspects about cookies are less bandwidth needed to do certain actions that would require to send and it does have a “friendly” welcome to a page for a user, (although it can be weird sometimes). Negative aspects are that you don’t get to choose what gets recorded for when you want to return to that page and sometimes you don’t have a choice to accept the cookie or you are forced to not visit or sometimes it writes the cookie anyways. Ethicality of cookies depends on what the cookie is actually coded to save and if the person visiting that site knows that a cookie is going to be saved and will contain personal information if they do continue to visit.
